@@ -1,0 +1,2 @@
+# MaxIO
+MinIO admin application
